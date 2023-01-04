@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\bin\Debug\net6.0\Casting Homework Practices.exe
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\bin\Debug\net6.0\Casting Homework Practices.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\bin\Debug\net6.0\Casting Homework Practices.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\bin\Debug\net6.0\Casting Homework Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\bin\Debug\net6.0\Casting Homework Practices.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\refint\Casting Homework Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\Casting Homework Practices.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Casting Homework practicies\Casting Homework Practices\Casting Homework Practices\obj\Debug\net6.0\ref\Casting Homework Practices.dll
